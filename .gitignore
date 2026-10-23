@@ -1,0 +1,8 @@
+# Never commit raw attack artifacts (hashes, cracked passwords, tickets)
+asrep.txt
+cracked.txt
+*.kirbi
+*.ccache
+*.ntds
+hashes*.txt
+loot/
